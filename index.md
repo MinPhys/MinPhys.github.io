@@ -17,4 +17,4 @@ Preceding the meeting (8th-9th April) will be a workshop on outer core proprties
 
 Details of the Mineral Physics Group Travel Bursary Scheme can be found at <a href="https://www.minersoc.org/mpg-bursaries.html">  www.minersoc.org/mpg-bursaries</a>
 
-More details on both meetings will follow shortly.
+Additional details will be provided in January 2025.
