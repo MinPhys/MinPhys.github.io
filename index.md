@@ -8,8 +8,13 @@ layout: default
 
 ## Research in Progress meeting 2025
 ## 9th - 10th April
-This year's Mineral Physics Group Research in Progress meeting will be hosted at the University of Edinburgh on 9th and 10th April 2025. Preceding the meeting will be a workshop on outer core proprties and dynamics, hosted by professor Tetsuya Komabayashi.
+This year's Mineral Physics Group Research in Progress meeting will be hosted at the University of Edinburgh on 9th and 10th April 2025. 
+Our Research in Progress meetings bring together post-graduate and post-doctoral researchers from all areas of high-pressure mineralogy & crystallography, mineral magnetism, molecular crystallography, computational mineral physics, geophysics, and planetary science to encourage the development of collaborations and sharing of results from recent research.
 
-Abstract submissions will be accepted from 27th January to 3rd March.
+Abstract submissions will be accepted from 27th January to 3rd March. 
+
+Preceding the meeting (8th-9th April) will be a workshop on outer core proprties and dynamics, hosted by professor Tetsuya Komabayashi. 
 
 Details of the Mineral Physics Group Travel Bursary Scheme can be found at <a href="https://www.minersoc.org/mpg-bursaries.html">  www.minersoc.org/mpg-bursaries</a>
+
+More details on both meetings will follow shortly.
