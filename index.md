@@ -15,7 +15,7 @@ Our Research in Progress meetings bring together post-graduate and post-doctoral
 
 Abstract submissions will be accepted from 27th January to 3rd March. 
 
-Preceding the meeting (8th-9th April) will be a workshop on outer core proprties and dynamics, hosted by professor Tetsuya Komabayashi. 
+Preceding the meeting (8th-9th April) will be a workshop on outer core properties and dynamics, hosted by professor Tetsuya Komabayashi. 
 
 Details of the Mineral Physics Group Travel Bursary Scheme can be found at <a href="https://www.minersoc.org/mpg-bursaries.html">  www.minersoc.org/mpg-bursaries</a>
 
