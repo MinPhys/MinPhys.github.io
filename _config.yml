@@ -10,7 +10,4 @@ show_downloads: false
 
 google_analytics: true
 
-github:
-  is_project_page: false
-
 theme: jekyll-theme-minimal
