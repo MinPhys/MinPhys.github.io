@@ -8,6 +8,22 @@ layout: default
 
 * * *
 
+#### Committee
+
+*   <a href="https://fwilson93.github.io/Portfolio/">Fred Wilson-Spencer</a>
+*   Eleanor Jennings
+*   Stephen Stackhouse
+*   Oliver Lord
+*   Auriol Rae
+*   Claire Nichols
+*   Tetsuya Komabayashi
+*   Frederick Richards
+*   Simon Hunt
+*   Zena Younes
+*   John Wheeler
+
+* * *
+
 ## [Research in Progress meeting 2025](./RiP_2025.html)
 ### 9th and 10th April - Edinburgh
 This year's Mineral Physics Group Research in Progress meeting will be hosted at the University of Edinburgh on 9th and 10th April 2025. 
