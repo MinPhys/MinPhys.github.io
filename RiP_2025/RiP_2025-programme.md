@@ -17,9 +17,11 @@ The meeting will begin around midday of Wednesday 9th April and conclude in the 
 We hope to organise a group meal for attendees on the Wednesday evening.
 
 ### Invited Speakers
-[//]: # (*  Dave Wallis (Cambridge))
-*  Guillaume Morard (CNRS)
-*  Tomas Marqueno Villanueva (Edinburgh)
-*  Viktoria Trautner (Oxford)
+[//]: # (-  Dave Wallis (Cambridge))
+- Guillaume Morard (CNRS)
+  - _Study of high pressure properties of geomaterials using time-resolved diagnostics_
+- Tomas Marqueno Villanueva (Edinburgh)
+  - _The Mineral Brucite at High Pressures_
+- Viktoria Trautner (Oxford)
 
 __The meeting programme will be updated following the close of abstract submissions after 3rd March.__
