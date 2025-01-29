@@ -23,5 +23,6 @@ We hope to organise a group meal for attendees on the Wednesday evening.
 - Tomas Marqueno Villanueva (Edinburgh)
   - _The Mineral Brucite at High Pressures_
 - Viktoria Trautner (Oxford)
+  - _The iron spin crossover in ferropericlase and its seismic signal in the lower mantle_
 
 __The meeting programme will be updated following the close of abstract submissions after 3rd March.__
