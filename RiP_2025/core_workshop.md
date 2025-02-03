@@ -20,12 +20,12 @@ Registration for this workshop is free. Attendees can register and submit an abs
 Oral presentation is by invitation only. Poster presentations can be requested on registration.
 
 ### Invited Speakers
-*  Stéphane Labross (ENS Lyon)
+*  Stéphane Labrosse (ENS Lyon)
 *  Guillaume Morard (U. Grenoble)
 *  Razvan Caracas (IPGP)
 *  Claire Nichols (U. Oxford)
 *  Chris Davies (U. Leeds)
-*  Andry Biggin (U. Liverpool)
+*  Andy Biggin (U. Liverpool)
 *  Kathy Whaler (U. Edinburgh)
 *  Wyn Williams (U. Edinburgh)
 
