@@ -17,7 +17,8 @@ The meeting will begin around midday of Wednesday 9th April and conclude in the 
 We hope to organise a group meal for attendees on the Wednesday evening.
 
 ### Invited Speakers
-[//]: # (-  Dave Wallis (Cambridge))
+-  Dave Wallis (Cambridge)
+  - _To be announced_
 - Guillaume Morard (CNRS)
   - _Study of high pressure properties of geomaterials using time-resolved diagnostics_
 - Tomas Marqueno Villanueva (Edinburgh)
