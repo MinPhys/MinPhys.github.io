@@ -18,7 +18,7 @@ We hope to organise a group meal for attendees on the Wednesday evening.
 
 ### Invited Speakers
 -  Dave Wallis (Cambridge)
-  - _To be announced_
+  - _Mild-to-wild plasticity of Earth's upper mantle_
 - Guillaume Morard (CNRS)
   - _Study of high pressure properties of geomaterials using time-resolved diagnostics_
 - Tomas Marqueno Villanueva (Edinburgh)
