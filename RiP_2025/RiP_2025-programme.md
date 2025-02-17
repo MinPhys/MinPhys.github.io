@@ -17,7 +17,7 @@ The meeting will begin around midday of Wednesday 9th April and conclude in the 
 We hope to organise a group meal for attendees on the Wednesday evening.
 
 ### Invited Speakers
-- Dave Wallis (Cambridge)
+- David Wallis (Cambridge)
   - _Mild-to-wild plasticity of Earth's upper mantle_
 - Guillaume Morard (CNRS)
   - _Study of high pressure properties of geomaterials using time-resolved diagnostics_
