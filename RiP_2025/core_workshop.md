@@ -18,6 +18,7 @@ The venue is the Larch lecture theatre of The Nucleus Building - Thomas Bayes Rd
 Registration for this workshop is free. Attendees can register and submit an abstract __<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=sAafLmkWiUWHiRCgaTTcYbw2T4DoKKxOjaEIhHhi9cpUN1dTMVZYNTc4UlVaMjlCOVJJNVZBVTBYMy4u"><ins>here</ins></a>__. Registration is required for name badge and catering purposes.
 
 Oral presentation is by invitation only. Poster presentations can be requested on registration.
+Posters boards will have A0 portrait dimensions.
 
 ### Invited Speakers
 *  Stéphane Labrosse (ENS Lyon)
