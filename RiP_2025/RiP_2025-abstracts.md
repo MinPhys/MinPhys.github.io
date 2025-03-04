@@ -16,7 +16,7 @@ Registration for the Mineral Physics Group Research in Progress meeting 2025 is 
 
 Registration and abstract submission is now open. __Please register for the meeting and submit your abstract <a href="https://min2022.org/mineral-physics-group-research-in-progress-2025/"><ins>here</ins></a>__.
 
-Abstracts must be submitted on or before March 9th to be considered for the meeting program.
+Abstracts must be submitted on or before March 10th to be considered for the meeting program.
 
 Posters boards will have A0 portrait dimensions.
 
