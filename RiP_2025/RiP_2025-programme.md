@@ -27,4 +27,6 @@ The MPG AGM will take place after the meetings close on Thursday, all are welcom
 - Viktoria Trautner (Oxford)
   - _The iron spin crossover in ferropericlase and its seismic signal in the lower mantle_
 
-![programme](https://MinPhys.github.io/RiP_2025/assets/programme.pdf)
+
+![programme1](https://MinPhys.github.io/RiP_2025/assets/programme1.png)
+![programme2](https://MinPhys.github.io/RiP_2025/assets/programme2.png)
