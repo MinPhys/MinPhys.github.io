@@ -13,8 +13,9 @@ layout: default
 ## Programme
 * * *
 
-The meeting will begin around midday of Wednesday 9th April and conclude in the afternoon of Thursday 10th.
-We hope to organise a group meal for attendees on the Wednesday evening.
+The meeting will begin 13:30 Wednesday 9th April and conclude at 12:30 Thursday 10th.
+Lab tours ang a group meal will be held on the Wednesday evening.
+The MPG AGM will take place after the meetings close on Thursday, all are welcome.
 
 ### Invited Speakers
 - David Wallis (Cambridge)
@@ -26,4 +27,4 @@ We hope to organise a group meal for attendees on the Wednesday evening.
 - Viktoria Trautner (Oxford)
   - _The iron spin crossover in ferropericlase and its seismic signal in the lower mantle_
 
-__The meeting programme will be updated following the close of abstract submissions after 3rd March.__
+![programme](https://MinPhys.github.io/RiP_2025/assets/programme.pdf)
