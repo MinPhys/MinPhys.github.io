@@ -14,7 +14,7 @@ layout: default
 * * *
 
 The meeting will begin 13:30 Wednesday 9th April and conclude at 12:30 Thursday 10th.
-Lab tours ang a group meal will be held on the Wednesday evening.
+Lab tours ang a group meal will be held on the Wednesday evening (note that registrations after March 10th do not guarantee a place for the group meal).
 The MPG AGM will take place after the meetings close on Thursday, all are welcome.
 
 ### Invited Speakers
