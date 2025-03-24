@@ -31,5 +31,5 @@ The MPG AGM will take place after the meetings close on Thursday, all are welcom
 ![programme1](https://MinPhys.github.io/RiP_2025/assets/programme1.png)
 ![programme2](https://MinPhys.github.io/RiP_2025/assets/programme2.png)
 
-### Abstracts
-![abstracts](https://MinPhys.github.io/RiP_2025/assets/RiP25_abstracts.pdf)
+### [List of Abstracts](https://MinPhys.github.io/RiP_2025/assets/RiP25_abstracts.pdf)
+
