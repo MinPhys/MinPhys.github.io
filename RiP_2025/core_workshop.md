@@ -26,6 +26,7 @@ Posters boards will have A0 portrait dimensions.
 *  Andy Biggin (U. Liverpool)
 *  Kathy Whaler (U. Edinburgh)
 *  Wyn Williams (U. Edinburgh)
+*  Yoichi Nakajima (Kumamoto U.)
 
 This meeting is supported by the NERC grant NE/W005832/1 "The Crystallisation Sequence of Earth's Core".
 
