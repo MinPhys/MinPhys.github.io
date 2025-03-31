@@ -28,8 +28,7 @@ The MPG AGM will take place after the meetings close on Thursday, all are welcom
   - _The iron spin crossover in ferropericlase and its seismic signal in the lower mantle_
 
 ### Schedule
-![programme1](https://MinPhys.github.io/RiP_2025/assets/programme1_cropped.png)
-![programme2](https://MinPhys.github.io/RiP_2025/assets/programme2_cropped.png)
+![programme](https://MinPhys.github.io/RiP_2025/assets/programmetotal_cropped.png)
 
 ### [List of Abstracts](https://MinPhys.github.io/RiP_2025/assets/RiP25_abstracts.pdf)
 
