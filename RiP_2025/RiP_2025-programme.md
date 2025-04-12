@@ -17,10 +17,6 @@ The meeting will begin 13:30 Wednesday 9th April and conclude at 12:30 Thursday 
 Lab tours ang a group meal will be held on the Wednesday evening (note that registrations after March 10th do not guarantee a place for the group meal).
 The MPG AGM will take place after the meetings close on Thursday, all are welcome.
 
-## Hybrid Meeting Links
-### [RiP25 Day 1 - Online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmIyZDk1MjMtYWE4My00NWYzLWI1ZDEtNGM4MDU5NGM0MjA0%40thread.v2/0?context=%7b%22Tid%22%3a%222e9f06b0-1669-4589-8789-10a06934dc61%22%2c%22Oid%22%3a%22804f36bc-28e8-4eac-8da1-08847862f5ca%22%7d)
-### [RiP25 Day 2 - Online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjFmZTgxNzMtMWQ3Ni00ODQxLTk2NDMtYzAyOTVhMTZmMTVj%40thread.v2/0?context=%7b%22Tid%22%3a%222e9f06b0-1669-4589-8789-10a06934dc61%22%2c%22Oid%22%3a%22804f36bc-28e8-4eac-8da1-08847862f5ca%22%7d)
-
 ### Invited Speakers
 - David Wallis (Cambridge)
   - _Mild-to-wild plasticity of Earth's upper mantle_
