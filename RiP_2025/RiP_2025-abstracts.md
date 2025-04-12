@@ -12,12 +12,7 @@ layout: default
 
 ## Registration and Abstract submission
 
-Registration for the Mineral Physics Group Research in Progress meeting 2025 is **Free**.
-
-Abstract submission is now closed. You can still register for the meeting <a href="https://min2022.org/mineral-physics-group-research-in-progress-2025/"><ins>here</ins></a>__.
-
-Invited talks will last 40 minutes and regular talks will last 20 minutes, both including time for question and answer.
-Posters boards will have A0 portrait dimensions.
+The Mineral Physics Group Research in Progress meeting 2025 has now concluded.
 
 ### Meeting Code of Conduct
 
