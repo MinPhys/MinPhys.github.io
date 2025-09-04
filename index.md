@@ -4,7 +4,7 @@ layout: default
 
 # Mineral Physics Group
 
-**This group was set up in 1996 and has the aim of advancing the understanding of the fundamental physical and chemical processes that determine the properties of minerals and brings together researchers from all areas of high-pressure mineralogy & crystallography, mineral magnetism, molecular crystallography, computational mineral physics, geophysics and planetary science. The group aims to stimulate interest in mineral physics by facilitating the exchange of information between members of the mineral physics community, running regular meetings where current research is discussed and provide bursaries so that members of the community can develop, undertake, apply and communicate their research. Follow us @MinPhys_minsoc  for regular updates.**
+**This group was set up in 1996 and has the aim of advancing the understanding of the fundamental physical and chemical processes that determine the properties of minerals and brings together researchers from all areas of high-pressure mineralogy & crystallography, mineral magnetism, molecular crystallography, computational mineral physics, geophysics and planetary science. The group aims to stimulate interest in mineral physics by facilitating the exchange of information between members of the mineral physics community, running regular meetings where current research is discussed and provide bursaries so that members of the community can develop, undertake, apply and communicate their research. Follow us @MinPhys_minsoc for regular updates.**
 
 * * *
 
@@ -26,13 +26,11 @@ layout: default
 ![banner](https://MinPhys.github.io/RiP_2025/assets/website_banner_RiP_25.png)
 ## [Research in Progress meeting 2025](./RiP_2025/RiP_2025.html)
 ### 9th and 10th April - Edinburgh
-This year's Mineral Physics Group Research in Progress meeting will be hosted at the University of Edinburgh on 9th and 10th April 2025. 
+This year's Mineral Physics Group Research in Progress meeting was hosted at the University of Edinburgh on 9th and 10th April 2025. 
 Our Research in Progress meetings bring together post-graduate and post-doctoral researchers from all areas of high-pressure mineralogy & crystallography, mineral magnetism, molecular crystallography, computational mineral physics, geophysics, and planetary science to encourage the development of collaborations and sharing of results from recent research.
 
-Abstract submissions is now closed. 
-Click [__here__](./RiP_2025/RiP_2025.html) for additional information and to register.
+The next meeting will be held at the University of Oxford, 8th and 9th July 2026.
 
-Preceding the meeting (8th-9th April) will be a workshop on outer core properties and dynamics, hosted by Dr Tetsuya Komabayashi. 
-
+The Mineral Physics Group provides a travle bursary to support the attendance of this meeting and others like it.
 Details of the Mineral Physics Group Travel Bursary Scheme can be found at <a href="https://www.minersoc.org/mpg-bursaries.html">  www.minersoc.org/mpg-bursaries</a>
 
