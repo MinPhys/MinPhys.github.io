@@ -2,25 +2,37 @@
 layout: default
 ---
 
-![banner](https://MinPhys.github.io/RiP_2025/assets/website_banner_RiP_25.png)
-# Research in Progress meeting 2025
-### Edinburgh - April 9th and 10th
+# Mineral Physics Group
 
-|    |    |    |    |    |
-|----|----|----|----|----|
-| [RiP 2025](./RiP_2025.html) | [Registration](./RiP_2025-abstracts.html) | [Programme](./RiP_2025-programme.html) | [Information](./RiP_2025-planning.html) | [Core Workshop](./core_workshop.html) |
 
-## Registration and Abstract submission
+## Previous Research in Progress Meetings
 
-The Mineral Physics Group Research in Progress meeting 2025 has now concluded.
+### 9th-10th April 2025, University of Edinburgh
+<a href="https://minphys.github.io/RiP_2025/RiP_2025.html">Meeting website</a>.
+![RiP25photo](https://MinPhys.github.io/assets/RiP25photo.jpg)
 
-### Meeting Code of Conduct
+### 18th-19th July 2024, UCL
+<a href="https://uob.sharepoint.com/teams/grp-mpgrip-2024">Meeting website</a>.
+![RiP24photo](https://MinPhys.github.io/assets/RiP24photo.jpg)
 
-The Research in Progress meetings hosted by the Mineral Physics Special Interest Group are open to everyone with an interest in mineral physics science. The group is dedicated to creating a safe and welcoming environment that encourages productive scientific exchanges. All meeting participants, including session chairs, speakers, poster presenters, and other attendees, must adhere to the following code of conduct:
+### 4th-5th September 2023, University of Bristol
+<a href="https://uob.sharepoint.com/teams/grp-mpgrip-2023">Meeting website</a>.
+![RiP23photo](https://MinPhys.github.io/assets/RiP23photo.jpg)
 
-*  Communicate openly, considerately, mindfully, respectfully, and collaboratively.
-*  Focus on ideas rather than attacking individuals or groups when expressing diverse views and opinions.
-*  Follow the rules and policies of the meeting venue, accommodations, and any other locations associated with the meeting.
-*  Be mindful of their surroundings.
+### 1st-2nd November 2017, University of Leeds
+“Mineral Physics Group Research in Progress Meeting”, Leeds.
+<a href="https://homepages.see.leeds.ac.uk/~earawa/files/RiP2017/RiP2017_Schedule.pdf">Programme</a> 
+<a href="https://homepages.see.leeds.ac.uk/~earawa/files/RiP2017/RiP2017_Abstracts.pdf">Abstracts</a>
 
-Any reported unacceptable behavior will result in action from the meeting organizers, potentially including immediate removal without warning. Unacceptable behaviours include physical and verbal abuse, such as comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, or national origin; harassment, bullying, intimidation, or discrimination; inappropriate use of sexual images in public spaces or presentations; and threatening or stalking participants.
+### 15-16 September 2014, Burlington House, London
+“Deep Earth processes: windows on the working of a planet” 
+
+### 12th-13th Feb 2009, British Geophysical Association, Burlington House
+“New Views on the Earth’s Interior” (joint with the British Geophysical Association), organised by John Brodholt.
+<a href="https://www.minersoc.co.uk/new-views-earth-meeting.html">Programme</a>
+<a href="https://doi.org/10.1111/j.1468-4004.2009.50334.x">Report</a>
+
+### 11th Jan 2008, Diamond Light Source
+“Synchrotron and Neutron Radiation Techniques: Applications for Mineral Physics Research”, organised by Richard Harrison, 53 participants. 
+
+<a href=""></a>
