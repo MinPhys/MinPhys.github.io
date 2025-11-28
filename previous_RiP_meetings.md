@@ -9,15 +9,15 @@ layout: default
 
 ### 9th-10th April 2025, University of Edinburgh
 <a href="https://minphys.github.io/RiP_2025/RiP_2025.html">Meeting website</a>.
-![RiP25photo](https://MinPhys.github.io/assets/RiP25photo.jpg)
+![RiP25photo](https://MinPhys.github.io/assets/img/RiP25photo.jpeg)
 
 ### 18th-19th July 2024, UCL
 <a href="https://uob.sharepoint.com/teams/grp-mpgrip-2024">Meeting website</a>.
-![RiP24photo](https://MinPhys.github.io/assets/RiP24photo.jpg)
+![RiP24photo](https://MinPhys.github.io/assets/img/RiP24photo.jpeg)
 
 ### 4th-5th September 2023, University of Bristol
 <a href="https://uob.sharepoint.com/teams/grp-mpgrip-2023">Meeting website</a>.
-![RiP23photo](https://MinPhys.github.io/assets/RiP23photo.jpg)
+![RiP23photo](https://MinPhys.github.io/assets/img/RiP23photo.jpeg)
 
 ### 1st-2nd November 2017, University of Leeds
 “Mineral Physics Group Research in Progress Meeting”, Leeds.
