@@ -1,0 +1,3 @@
+{% for link in site.RiP_links %}
+  <a href="{{ link.path | relative_url }}">{{ link.name }}</a><br/>
+{% endfor %}
