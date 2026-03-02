@@ -4,11 +4,17 @@ logo: /assets/img/MPG.jpg
 
 description: A special interest group of the <a href="https://www.minersoc.org/">Mineralogical Society of the UK and Ireland</a>. <br/>
                 <br/>
-                <a href="https://minphys.github.io/RiP_2026/RiP_2026.html">💎 RiP 2026 meeting </a> <br/>
-                <a href="https://minphys.github.io/previous_RiP_meetings.html">💎 Previous RiP meetings </a> <br/>
-   
+
+# Define link *data*, not HTML
+RiP_links:
+  - name: "💎 RiP 2026 meeting"
+    path: "/RiP_2026/RiP_2026.html"
+  - name: "💎 Previous RiP meetings"
+    path: "/previous_RiP_meetings.html"
+
 show_downloads: false
-
 google_analytics: G-T9RKX0S41B
-
 theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-github-metadata
