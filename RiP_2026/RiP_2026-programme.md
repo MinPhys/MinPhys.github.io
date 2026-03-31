@@ -9,5 +9,21 @@ layout: default
 |----|----|----|----|
 | [RiP 2026](./RiP_2026.html) | [Registration](./RiP_2026-registration.html) | [Programme](./RiP_2026-programme.html) | [Information](./RiP_2026-information.html) |
 
-Registration for the Mineral Physics Group Research in Progress meeting 2026 is now open! This year's meeting will be hosted at the University of Oxford on 8th and 9th July 2026. Our Research in Progress meetings bring together post-graduate and post-doctoral researchers from all areas of high-pressure mineralogy & crystallography, mineral magnetism, molecular crystallography, computational mineral physics, geophysics, and planetary science to encourage the development of collaborations and sharing of results from recent research.
+## Programme
+* * *
 
+The meeting will begin in the afternoon of Wednesday 8th July and conclude in the afternoon of Thursday 9th.
+A meeting dinner and group photo will be held on the Wednesday evening.
+The MPG AGM will take place after the meetings close on Thursday, all are welcome.
+
+Further details will be provided after the close of abstract submissions (29th May).
+
+### Invited Speakers
+- Holger Stunitz (University of Tromsø)
+  - _Recent advances in experimental quartz rheology and consequences for the plastic deformation of other silicates._
+- Banusha Kugabalan (Imperial College London)
+  - _Determining palaeostress signals using rock magnetism._
+- Benjamin Hess (University of Oxford)
+  - _Thermodynamics of Stressed Crystals: Stress–Composition Coupling and Its Geological Consequences_
+- Zhi Li (Imperial College London)
+  - _TBD_
