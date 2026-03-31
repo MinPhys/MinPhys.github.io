@@ -12,7 +12,7 @@ layout: default
 ## Registration and Abstract submission
 
 Registration for the Mineral Physics Group Research in Progress meeting 2026 is now open! 
-Click <a href="https://events.minersoc.org/Event-Registration/EventId/58">herer</a>.here to sign up!
+Click <a href="https://events.minersoc.org/Event-Registration/EventId/58">here</a> here to sign up!
 
 Please note that this meeting will be in-person only. Do not select the remote attendance option when regstering.
 
