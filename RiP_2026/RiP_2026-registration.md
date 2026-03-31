@@ -12,10 +12,17 @@ layout: default
 ## Registration and Abstract submission
 
 Registration for the Mineral Physics Group Research in Progress meeting 2026 is now open! 
-Click here to sign up!
+Click <a href="https://events.minersoc.org/Event-Registration/EventId/58">herer</a>.here to sign up!
+
+Please note that this meeting will be in-person only. Do not select the remote attendance option when regstering.
+
+When registering there will be an option to submit an abstract. If you wish to submit an abstract at a later date, please send this directly to a.j.wilson1@leeds.ac.uk.
+
+
 ### Pricing
 
 In previous years our Research in Progress meetings have been free of charge but delegates have paid for their own meal at the meeting dinner. This year we will be charging a registration fee of £25 for students and £65 for regular attendees. The cost of the meal, lunch and refreshments is £65 per attendee, meaning that the registration fee is being used purely to cover these costs. Other costs, as well as much of the student meals and refreshements, are being provided by the MPG and the meeting's sponsors.
+
 
 ### Meeting Code of Conduct
 
