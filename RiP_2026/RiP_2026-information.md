@@ -39,7 +39,7 @@ The MPG RiP 2026 meeting will be hosted by the Department of Earth Sciences at t
 
 ### Meeting Dinner
 The three course meeting dinner will be provided by St Edmund Hall and will feature a seasonal menu. Please indicate any dietary restrictions when registering for the meeting or contact a.j.wilson1@leeds.ac.uk directly. The meeting dinner is included in the registration fee.
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2555.507168983042!2d-1.2518801862513957!3d51.75344840361756!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876c6adb2c486ff%3A0x54fd74639e55e375!2sSt%20Edmund%20Hall!5e0!3m2!1sen!2suk!4v1774973883431!5m2!1sen!2suk" width="500" height="375"" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2555.507168983042!2d-1.2518801862513957!3d51.75344840361756!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876c6adb2c486ff%3A0x54fd74639e55e375!2sSt%20Edmund%20Hall!5e0!3m2!1sen!2suk!4v1774973883431!5m2!1sen!2suk" width="500" height="375" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 * * *
 
 ### Accomodation
