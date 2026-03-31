@@ -18,6 +18,7 @@ Please note that this meeting will be in-person only. Do not select the remote a
 
 When registering there will be an option to submit an abstract. If you wish to submit an abstract at a later date, please send this directly to a.j.wilson1@leeds.ac.uk.
 
+The deadline for abstract submission is 29th May 2026.
 
 ### Pricing
 
