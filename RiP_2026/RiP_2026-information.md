@@ -9,6 +9,25 @@ layout: default
 |----|----|----|----|
 | [RiP 2026](./RiP_2026.html) | [Registration](./RiP_2026-registration.html) | [Programme](./RiP_2026-programme.html) | [Information](./RiP_2026-information.html) |
 
+## Presentation Awards
+
+Awards for best early career researcher oral and poster presentations will be judged and awarded during the meeting.
+
+## Support
+
+Support for attendance of the meeting is availible through the <a href="https://www.minersoc.org/mpg-bursaries.html>Mineral Physics Group's Travel Bursary Scheme</a>. Applications are welcomed from all researchers at a University or research institute in the UK, but preference will be given to post-graduate students in their penultimate or final year of study, who do not have access to funding for research related travel. In the case where applications outstrip funds available, applicants who are members of the Society will be preferred. Applications for bursaries can be sent at any time but must be received at least a month in advance of the start of the proposed trip and ideally much earlier. Applications will be judged primarily on the basis of academic merit, scientific impact and researcher development by members of the Mineral Physics Group committee. 
+
+### Support for Carers
+The Mineral Physics Group's Travel Bursary Scheme has now been expanded make funds for carers an eligible expense. We recognise that caregiving responsibilities can present significant barriers to participation in research related activities. Applicants can request additional funds to cover reasonable costs for alternative care arrangements. Up to an additional £500 can be requested to support applicants with caregiving responsibilities. Reasonable costs may include but are not limited to:
+
+* travel, accommodation and subsidence costs for an additional carer/parent and/or dependent(s)
+* additional respite/medical/home help/nursing care for a dependant during the travel period
+* extended care worker/childminder hours.
+
+Restrictions:
+Costs relating directly to the applicant (travel, accommodation, registration) are not eligible costs for the "funds for carers" and should be covered by the travel bursary.
+
+
 ## Planning your visit
 * * *
 
