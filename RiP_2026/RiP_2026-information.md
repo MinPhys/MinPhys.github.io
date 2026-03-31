@@ -14,13 +14,13 @@ layout: default
 
 ### Venue
 The MPG RiP 2026 meeting will be hosted by the Department of Earth Sciences at the University of Oxford: South Parks Rd, Oxford OX1 3AN. The meeting will take place in the department's seminar room.
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2469.605102224815!2d-1.2569142867434508!3d51.7585442717542!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876c6a9a75b27e1%3A0x1db3a6a1a6767def!2sDepartment%20of%20Earth%20Sciences!5e0!3m2!1sen!2suk!4v1774972731826!5m2!1sen!2suk" width="500" height="375"" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2469.605102224815!2d-1.2569142867434508!3d51.7585442717542!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876c6a9a75b27e1%3A0x1db3a6a1a6767def!2sDepartment%20of%20Earth%20Sciences!5e0!3m2!1sen!2suk!4v1774972731826!5m2!1sen!2suk" width="500" height="375" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 * * *
 
 ### Meeting Dinner
-For those who have registered for the meeting and submitted a menu choice there is a group dinner at 7pm on Wednesday 9th. The venue for the dinner is Vittoria on the Bridge, 19 George IV Bridge, Edinburgh EH1 1EN.
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2234.091767010061!2d-3.1944619230405404!3d55.94778137315706!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4887c79ad16bc623%3A0xb4d62bfef1117db4!2sVittoria%20on%20the%20Bridge!5e0!3m2!1sen!2suk!4v1744188156626!5m2!1sen!2suk" width="500" height="375" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+The three course meeting dinner will be provided by St Edmund Hall and will feature a seasonal menu. Please indicate any dietary restrictions when registering for the meeting or contact a.j.wilson1@leeds.ac.uk directly. The meeting dinner is included in the registration fee.
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2555.507168983042!2d-1.2518801862513957!3d51.75344840361756!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876c6adb2c486ff%3A0x54fd74639e55e375!2sSt%20Edmund%20Hall!5e0!3m2!1sen!2suk!4v1774973883431!5m2!1sen!2suk" width="500" height="375"" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 * * *
 
 ### Accomodation
