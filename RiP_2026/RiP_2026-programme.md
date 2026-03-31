@@ -12,7 +12,7 @@ layout: default
 ## Programme
 * * *
 
-The meeting will begin in the afternoon of Wednesday 8th July and conclude in the afternoon of Thursday 9th.
+This year's Research in Progress meeting will begin on the afternoon of Wednesday 8th July and conclude on the afternoon of Thursday 9th.
 
 [Register now](./RiP_2026-registration.html) to showcase your own research in this year's meeting!
 
