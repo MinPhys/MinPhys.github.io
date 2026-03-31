@@ -33,6 +33,6 @@ Registration for the Mineral Physics Group Research in Progress meeting 2026 is 
 
 ![Registration_Now_Open](https://MinPhys.github.io/RiP_2026/assetts/Flyer.png)
 
-The Mineral Physics Group provides a travel bursary to support the attendance of this meeting and others like it. The scheme is being expanded to make to careing expenses eligible. 
+The Mineral Physics Group provides a travel bursary to support the attendance of this meeting and others like it. The scheme is being expanded to make some caring expenses eligible. 
 Details of the Mineral Physics Group Travel Bursary Scheme can be found at <a href="https://www.minersoc.org/mpg-bursaries.html">  www.minersoc.org/mpg-bursaries</a>
 
