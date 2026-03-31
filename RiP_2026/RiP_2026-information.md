@@ -24,8 +24,8 @@ For those who have registered for the meeting and submitted a menu choice there 
 * * *
 
 ### Accomodation
-St Edmund hall have arranged an accomodation option at the William R. Miller Building for delegates as a specail rate. 
-https://maps.app.goo.gl/zUaikGLST98NzTxeA
+St Edmund hall have arranged an accomodation option at the <a href="https://maps.app.goo.gl/zUaikGLST98NzTxeA">William R. Miller Building</a> for delegates as a specail rate. 
+
 A single ensuite room is availbile for £80.00 + VAT per night or £86.00 + VAT to include a continental breakfast (pastries, juice, tea coffee and fruit and yoghurt).
 If you are interested in this accomodation option, please contact MPG Chair, Alfred Wilson-Spencer (a.j.wilson1@leeds.ac.uk).
 
