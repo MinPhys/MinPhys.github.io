@@ -23,14 +23,15 @@ layout: default
 *   <a href="https://pcwww.liv.ac.uk/johnwh/Website2022/main.html">John Wheeler</a>
 
 * * *
-![banner](https://MinPhys.github.io/RiP_2025/assets/website_banner_RiP_25.png)
+![banner](https://MinPhys.github.io/RiP_2026/assets/website_banner_RiP_26.png)
 ## [Research in Progress meeting 2025](./RiP_2025/RiP_2025.html)
-### 9th and 10th April - Edinburgh
-This year's Mineral Physics Group Research in Progress meeting was hosted at the University of Edinburgh on 9th and 10th April 2025. 
-Our Research in Progress meetings bring together post-graduate and post-doctoral researchers from all areas of high-pressure mineralogy & crystallography, mineral magnetism, molecular crystallography, computational mineral physics, geophysics, and planetary science to encourage the development of collaborations and sharing of results from recent research.
 
-The next meeting will be held at the University of Oxford, 8th and 9th July 2026.
+# Research in Progress meeting 2026
+### Oxford - July 8th and 9th
+Registration for the Mineral Physics Group Research in Progress meeting 2026 is now open! This year's meeting will be hosted at the University of Oxford on 8th and 9th July 2026. Our Research in Progress meetings bring together post-graduate and post-doctoral researchers from all areas of high-pressure mineralogy & crystallography, mineral magnetism, molecular crystallography, computational mineral physics, geophysics, and planetary science to encourage the development of collaborations and sharing of results from recent research.
 
-The Mineral Physics Group provides a travle bursary to support the attendance of this meeting and others like it.
+![Registration_Now_Open](https://MinPhys.github.io/RiP_2026/assetts/Flyer.png)
+
+The Mineral Physics Group provides a travel bursary to support the attendance of this meeting and others like it. The scheme is being expanded to make to careing expenses eligible. 
 Details of the Mineral Physics Group Travel Bursary Scheme can be found at <a href="https://www.minersoc.org/mpg-bursaries.html">  www.minersoc.org/mpg-bursaries</a>
 
