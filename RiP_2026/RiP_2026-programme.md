@@ -27,6 +27,6 @@ Further details will be provided after the close of abstract submissions (29th M
 - Banusha Kugabalan (Imperial College London)
   - _Determining palaeostress signals using rock magnetism._
 - Benjamin Hess (University of Oxford)
-  - _Thermodynamics of Stressed Crystals: Stress–Composition Coupling and Its Geological Consequences_
+  - _Thermodynamics of Stressed Crystals: Stress–Composition Coupling and Its Geological Consequences._
 - Zhi Li (Imperial College London)
   - _TBD_
