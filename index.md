@@ -23,7 +23,8 @@ layout: default
 *   <a href="https://pcwww.liv.ac.uk/johnwh/Website2022/main.html">John Wheeler</a>
 
 * * *
-![banner](https://MinPhys.github.io/RiP_2026/assets/website_banner_RiP_26.png)
+![banner](https://MinPhys.github.io/RiP_2026/assetts/website_banner_RiP_26.png)
+
 ## [Research in Progress meeting 2025](./RiP_2025/RiP_2025.html)
 
 # Research in Progress meeting 2026
