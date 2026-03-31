@@ -9,5 +9,21 @@ layout: default
 |----|----|----|----|----|
 | [RiP 2026](./RiP_2026.html) | [Registration](./RiP_2026-registration.html) | [Programme](./RiP_2026-programme.html) | [Information](./RiP_2026-information.html) |
 
-Registration for the Mineral Physics Group Research in Progress meeting 2026 is now open! This year's meeting will be hosted at the University of Oxford on 8th and 9th July 2026. Our Research in Progress meetings bring together post-graduate and post-doctoral researchers from all areas of high-pressure mineralogy & crystallography, mineral magnetism, molecular crystallography, computational mineral physics, geophysics, and planetary science to encourage the development of collaborations and sharing of results from recent research.
+## Registration and Abstract submission
 
+Registration for the Mineral Physics Group Research in Progress meeting 2026 is now open! 
+Click here to sign up!
+### Pricing
+
+In previous years our Research in Progress meetings have been free of charge but delegates have paid for their own meal at the meeting dinner. This year we will be charging a registration fee of £25 for students and £65 for regular attendees. The cost of the meal, lunch and refreshments is £65 per attendee, meaning that the registration fee is being used purely to cover these costs. Other costs, as well as much of the student meals and refreshements, are being provided by the MPG and the meeting's sponsors.
+
+### Meeting Code of Conduct
+
+The Research in Progress meetings hosted by the Mineral Physics Special Interest Group are open to everyone with an interest in mineral physics science. The group is dedicated to creating a safe and welcoming environment that encourages productive scientific exchanges. All meeting participants, including session chairs, speakers, poster presenters, and other attendees, must adhere to the following code of conduct:
+
+*  Communicate openly, considerately, mindfully, respectfully, and collaboratively.
+*  Focus on ideas rather than attacking individuals or groups when expressing diverse views and opinions.
+*  Follow the rules and policies of the meeting venue, accommodations, and any other locations associated with the meeting.
+*  Be mindful of their surroundings.
+
+Any reported unacceptable behavior will result in action from the meeting organizers, potentially including immediate removal without warning. Unacceptable behaviours include physical and verbal abuse, such as comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, or national origin; harassment, bullying, intimidation, or discrimination; inappropriate use of sexual images in public spaces or presentations; and threatening or stalking participants.
