@@ -13,7 +13,7 @@ layout: default
 
 Registration for the Mineral Physics Group Research in Progress meeting 2026 is now open! 
 
-### Click <a href="https://events.minersoc.org/Event-Registration/EventId/58">here</a> here to register today!
+### <a href="https://events.minersoc.org/Event-Registration/EventId/58">Click here to register today!</a> 
 
 Please note that this meeting will be in-person only. Do not select the remote attendance option when regstering.
 
