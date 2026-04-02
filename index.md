@@ -24,7 +24,7 @@ layout: default
 
 * * *
 ![banner](https://MinPhys.github.io/RiP_2026/assetts/website_banner_RiP_26.png)
-## [Research in Progress meeting 2026](./RiP_2026/RiP_2026.html)
+## [Click here to learn more about the 2026 Research in Progress meeting 2026](./RiP_2026/RiP_2026.html)
 
 # Research in Progress meeting 2026
 ### Oxford - July 8th and 9th
