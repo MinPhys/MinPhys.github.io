@@ -42,11 +42,11 @@ The three course meeting dinner will be provided by St Edmund Hall and will feat
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2555.507168983042!2d-1.2518801862513957!3d51.75344840361756!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876c6adb2c486ff%3A0x54fd74639e55e375!2sSt%20Edmund%20Hall!5e0!3m2!1sen!2suk!4v1774973883431!5m2!1sen!2suk" width="500" height="375" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 * * *
 
-### Accomodation
-St Edmund hall have arranged an accomodation option at the <a href="https://maps.app.goo.gl/zUaikGLST98NzTxeA">William R. Miller Building</a> for delegates as a specail rate. 
+### Accommodation
+St Edmund hall have arranged an accommodation option at the <a href="https://maps.app.goo.gl/zUaikGLST98NzTxeA">William R. Miller Building</a> for delegates as a special rate. 
 
-A single ensuite room is availbile for £80.00 + VAT per night or £86.00 + VAT to include a continental breakfast (pastries, juice, tea coffee and fruit and yoghurt).
-If you are interested in this accomodation option, please contact MPG Chair, Alfred Wilson-Spencer (a.j.wilson1@leeds.ac.uk).
+A single ensuite room is available for £80.00 + VAT per night or £86.00 + VAT to include a continental breakfast (pastries, juice, tea coffee and fruit and yoghurt).
+If you are interested in this accommodation option, please contact MPG Chair, Alfred Wilson-Spencer (a.j.wilson1@leeds.ac.uk).
 
 * * *
 ### Travel
