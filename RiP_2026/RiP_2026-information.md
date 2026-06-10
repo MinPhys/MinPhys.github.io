@@ -46,7 +46,7 @@ The three course meeting dinner will be provided by St Edmund Hall and will feat
 St Edmund hall have arranged an accommodation option at the <a href="https://maps.app.goo.gl/zUaikGLST98NzTxeA">William R. Miller Building</a> for delegates as a special rate. 
 
 A single ensuite room is available for £80.00 + VAT per night or £86.00 + VAT to include a continental breakfast (pastries, juice, tea coffee and fruit and yoghurt).
-If you are interested in this accommodation option, please contact MPG Chair, Alfred Wilson-Spencer (a.j.wilson1@leeds.ac.uk).
+If you are interested in this accommodation option, please contact the conferences team at St Edmund hall (conferences@seh.ox.ac.uk) and mention the Mineral Physics Group Research in Progress meeting when doing so.
 
 * * *
 ### Travel
