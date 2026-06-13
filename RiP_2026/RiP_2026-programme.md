@@ -32,4 +32,4 @@ Further details will be provided after the close of abstract submissions (29th M
   - _Predictive Modeling of Chemically Complex Earth-Forming Materials via Deep-Learning-Driven Atomistic Simulations._
 
 ### Schedule
-![programme](https://MinPhys.github.io/RiP_2026/assets/programmetotal_cropped.png)
+![programme](https://MinPhys.github.io/RiP_2026/assetts/programmetotal_cropped.png)
