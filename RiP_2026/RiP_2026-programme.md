@@ -30,3 +30,6 @@ Further details will be provided after the close of abstract submissions (29th M
   - _Thermodynamics of Stressed Crystals: Stress–Composition Coupling and Its Geological Consequences._
 - Zhi Li (University College London)
   - _Predictive Modeling of Chemically Complex Earth-Forming Materials via Deep-Learning-Driven Atomistic Simulations._
+
+### Schedule
+![programme](https://MinPhys.github.io/RiP_2026/assets/programmetotal_cropped.png)
