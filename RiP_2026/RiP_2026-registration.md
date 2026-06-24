@@ -11,7 +11,7 @@ layout: default
 
 ## Registration and Abstract submission
 
-Registration for the Mineral Physics Group Research in Progress meeting 2026 is now closed. We look forward to seeing you in Oxford
+Registration for the Mineral Physics Group Research in Progress meeting 2026 is now closed. We look forward to seeing you in Oxford!
 
 
 ### Meeting Code of Conduct
