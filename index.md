@@ -28,8 +28,8 @@ layout: default
 # [Research in Progress meeting 2026](./RiP_2026/RiP_2026.html)
 ### Oxford - July 8th and 9th
 This year's Mineral Physics Group Research in Progress meeting will be hosted at the University of Oxford on 8th and 9th July 2026. Our Research in Progress meetings bring together post-graduate and post-doctoral researchers from all areas of high-pressure mineralogy & crystallography, mineral magnetism, molecular crystallography, computational mineral physics, geophysics, and planetary science to encourage the development of collaborations and sharing of results from recent research.
-## [Click here to learn more about the 2026 Research in Progress meeting](./RiP_2026/RiP_2026.html)
-![Registration_Now_Open](https://MinPhys.github.io/RiP_2026/assetts/Flyer.png)
+
+
 
 The Mineral Physics Group provides a travel bursary to support the attendance of this meeting and others like it. The scheme is being expanded to make some caring expenses eligible. 
 Details of the Mineral Physics Group Travel Bursary Scheme can be found at <a href="https://www.minersoc.org/mpg-bursaries.html">  www.minersoc.org/mpg-bursaries</a>
