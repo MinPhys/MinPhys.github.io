@@ -32,5 +32,5 @@ Further details will be provided after the close of abstract submissions (29th M
 
 ### Schedule
 
-[![programme](https://MinPhys.github.io/RiP_2026/assetts/programmetotal_cropped.png)](https://MinPhys.github.io/RiP_2026/assetts/Programme_V2.pdf)
+[![programme](https://MinPhys.github.io/RiP_2026/assetts/programmetotal_cropped.png)](https://MinPhys.github.io/RiP_2026/assetts/Programme_V3.pdf)
 
