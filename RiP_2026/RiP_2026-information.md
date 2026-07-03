@@ -35,7 +35,7 @@ Costs relating directly to the applicant (travel, accommodation, registration) a
 The MPG RiP 2026 meeting will be hosted by <a href="https://maps.app.goo.gl/zxYGUcFRSTtpifdD8">the Department of Earth Sciences at the University of Oxford: South Parks Rd, Oxford OX1 3AN</a>. The meeting will take place in the department's seminar room on the ground floor. The building is accessibility friendly.
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2469.605102224815!2d-1.2569142867434508!3d51.7585442717542!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876c6a9a75b27e1%3A0x1db3a6a1a6767def!2sDepartment%20of%20Earth%20Sciences!5e0!3m2!1sen!2suk!4v1774972731826!5m2!1sen!2suk" width="500" height="375" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 Department entrance as seen from South Parks Road:
-![SPR_entrance](RiP_2026/assetts/Ox_DES_front_entrance.png)
+![SPR_entrance](https://MinPhys.github.io/RiP_2026/assetts/Ox_DES_front_entrance.png)
 * * *
 
 ### Meeting Dinner
