@@ -14,12 +14,10 @@ layout: default
 *   <a href="https://www.bbk.ac.uk/our-staff/profile/9170279/eleanor-jennings">Eleanor Jennings</a>
 *   <a href="https://environment.leeds.ac.uk/see/staff/1551/dr-stephen-stackhouse">Stephen Stackhouse</a>
 *   <a href="https://seis.bristol.ac.uk/~glotl/index.html">Oliver Lord</a>
-*   <a href="https://www.research.ed.ac.uk/en/persons/auriol-rae">Auriol Rae</a>
 *   <a href="https://www.earth.ox.ac.uk/people/claire-nichols/">Claire Nichols</a>
 *   <a href="https://www.research.ed.ac.uk/en/persons/tetsuya-komabayashi">Tetsuya Komabayashi</a>
 *   <a href="https://profiles.imperial.ac.uk/f.richards19">Frederick Richards</a>
 *   <a href="https://research.manchester.ac.uk/en/persons/simon.hunt">Simon Hunt</a>
-*   <a href="https://www.csec.ed.ac.uk/members/miss-zena-younes">Zena Younes</a>
 *   <a href="https://pcwww.liv.ac.uk/johnwh/Website2022/main.html">John Wheeler</a>
 
 * * *
