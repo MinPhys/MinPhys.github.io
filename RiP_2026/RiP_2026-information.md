@@ -11,7 +11,9 @@ layout: default
 
 ## Presentation Awards
 
-Awards for best early career researcher oral and poster presentations will be judged and awarded during the meeting.
+Awards for best early career researcher oral and poster presentations were be judged and awarded during the meeting.
+Congratulations to Brandon Fish (right, best student oral presentation) and Ry Affleck (left, best student poster presentation) for winning this year's prizes.
+![rip_awardees_2026](https://MinPhys.github.io/RiP_2026/assetts/rip_awardees_2026.jpeg)
 
 ## Support
 
