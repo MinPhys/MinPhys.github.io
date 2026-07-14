@@ -7,6 +7,10 @@ layout: default
 
 ## Previous Research in Progress Meetings
 
+### 8th-9th July 2026, University of Oxford
+<a href="https://minphys.github.io/RiP_2026/RiP_2026.html">Meeting website</a>.
+![RiP26photo](https://MinPhys.github.io/RiP_2026/assetts/rip_2026_group.jpg)
+
 ### 9th-10th April 2025, University of Edinburgh
 <a href="https://minphys.github.io/RiP_2025/RiP_2025.html">Meeting website</a>.
 ![RiP25photo](https://MinPhys.github.io/assets/img/RiP25photo.jpeg)
