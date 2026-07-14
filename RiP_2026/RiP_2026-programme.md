@@ -5,19 +5,7 @@ layout: default
 # Research in Progress meeting 2026
 ### Oxford - July 8th and 9th
 
-|    |    |    |    |
-|----|----|----|----|
-| [RiP 2026](./RiP_2026.html) | [Registration](./RiP_2026-registration.html) | [Programme](./RiP_2026-programme.html) | [Information](./RiP_2026-information.html) |
-
 ## Programme
-* * *
-
-This year's Research in Progress meeting will begin on the afternoon of Wednesday 8th July and conclude on the afternoon of Thursday 9th.
-
-A meeting dinner and group photo will be held on the Wednesday evening.
-The MPG AGM will take place after the meetings close on Thursday, all are welcome.
-
-Further details will be provided after the close of abstract submissions (29th May).
 
 ### Invited Speakers
 - Holger Stunitz (University of Tromsø)
