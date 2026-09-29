@@ -9,8 +9,6 @@ description: A special interest group of the <a href="https://www.minersoc.org/"
 
 # Define link *data*, not HTML
 RiP_links:
-  - name: "💎 RiP 2026 meeting"
-    path: "/RiP_2026/RiP_2026.html"
   - name: "💎 Previous RiP meetings"
     path: "/previous_RiP_meetings.html"
 
