@@ -23,9 +23,13 @@ layout: default
 * * *
 ![banner](https://MinPhys.github.io/RiP_2026/assetts/website_banner_RiP_26.png)
 
-# [Research in Progress meeting 2026](./RiP_2026/RiP_2026.html)
-### Oxford - July 8th and 9th
-This year's Mineral Physics Group Research in Progress meeting was hosted at the University of Oxford on 8th and 9th July. Our Research in Progress meetings bring together post-graduate and post-doctoral researchers from all areas of high-pressure mineralogy & crystallography, mineral magnetism, molecular crystallography, computational mineral physics, geophysics, and planetary science to encourage the development of collaborations and sharing of results from recent research.
+[# [Research in Progress meeting 2026](./RiP_2026/RiP_2026.html)]: #
+# Research in Progress meeting 2027
+
+### Leeds - July 1st and 2nd
+The 2027 instalment of the Mineral Physics Group's Research in Progress meeting will be hosted at the University of Leeds on July 1st-2nd. Our Research in Progress meetings bring together post-graduate and post-doctoral researchers from all areas of high-pressure mineralogy & crystallography, mineral magnetism, molecular crystallography, computational mineral physics, geophysics, and planetary science to encourage the development of collaborations and sharing of results from recent research.
+
+Please consider saving the date for this meeting in your schedule. Further details to follow in spring 2027.
 
 
 
