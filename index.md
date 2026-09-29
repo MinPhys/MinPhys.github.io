@@ -21,9 +21,7 @@ layout: default
 *   <a href="https://pcwww.liv.ac.uk/johnwh/Website2022/main.html">John Wheeler</a>
 
 * * *
-![banner](https://MinPhys.github.io/RiP_2026/assetts/website_banner_RiP_26.png)
 
-[# [Research in Progress meeting 2026](./RiP_2026/RiP_2026.html)]: #
 # Research in Progress meeting 2027
 
 ### Leeds - July 1st and 2nd
