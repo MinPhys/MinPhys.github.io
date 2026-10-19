@@ -19,6 +19,9 @@ layout: default
 *   <a href="https://profiles.imperial.ac.uk/f.richards19">Frederick Richards</a>
 *   <a href="https://research.manchester.ac.uk/en/persons/simon.hunt">Simon Hunt</a>
 *   <a href="https://pcwww.liv.ac.uk/johnwh/Website2022/main.html">John Wheeler</a>
+*   <a href="https://www.esc.cam.ac.uk/people/david-wallis">David Wallis</a>
+*   <a href="https://sites.google.com/view/elias-mansbach/home">Elias Mansbach</a>
+*   <a href="https://www.ucl.ac.uk/mathematical-physical-sciences/earth-sciences/people/research-students/billy-rayner">Billy Rayner</a>
 
 * * *
 
